@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<trainingjdbc>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.hasan.trainingjdbc.DemoApplication",
+            "projectName": "trainingjdbc",
+            "args": ""
+        }
+    ]
+}
